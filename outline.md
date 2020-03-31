@@ -1,3 +1,5 @@
+## Amy Ko
+
 This outline is from Amy Ko's book Design Methods:
 https://faculty.washington.edu/ajko/books/design-methods/index.html
 
@@ -11,3 +13,23 @@ Chapter 7. How to design user interfaces
 Chapter 8. How to be critical
 Chapter 9. How to evaluate empirically
 Chapter 10. How to evaluate analytically
+
+Other rubrics:
+
+## Luma Institute
+Looking
+- ethnographic
+  - interviewing
+  - fly on the wall observation
+  - contextual inquiry
+  - walk a mile immersion
+- participatory
+  - radar
+  - buy a feature
+  - build your own
+  - journaling
+- evaluative
+  - think-aloud testing
+  - heuristic review
+  - critique
+  - system usability scale
