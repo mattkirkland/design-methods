@@ -16,7 +16,18 @@ Chapter 10. How to evaluate analytically
 
 Other rubrics:
 
+## Design Methods from IDEO book
+- INSPIRATION
+- IDEATION
+- IMPLEMENTATION
+
+
 ## Luma Institute
+From the book 'innovating for People', 2012.
+- Looking
+- Understanding
+- Making
+
 Looking
 - ethnographic
   - interviewing
@@ -33,3 +44,37 @@ Looking
   - heuristic review
   - critique
   - system usability scale
+
+Understanding
+- people & systems
+  - stakeholder mapping
+  - personal profile
+  - experience diagramming
+  - concept mapping
+- patterns & priorities
+  - affinity clusters
+  - bulls-eye diagramming
+  - importance/difficulty matrix
+  - visualize the vote
+- problem framing
+  - problem tree analysis
+  - statement Starters
+  - abstraction laddering
+  - rose, thorn, bud
+
+Making
+- concept IDEATION
+  - thumbnail sketch
+  - creative matrix
+  - round robin
+  - alternative worlds
+- modeling & Prototyping
+  - Storyboard
+  - schematic diagram
+  - rough & ready prototype
+  - appearance modeling
+- design rationale
+  - concept poster
+  - video scenario
+  - cover story mockup
+  - quick reference guide
