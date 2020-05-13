@@ -9,6 +9,8 @@ Note 3/20/20: Amy Ko's got a book online here that looks great. It's even on git
 https://faculty.washington.edu/ajko/books/design-methods/index.html
 I really like this outline AND it's well written; this might be a great framing for the course. https://github.com/amyjko/design-methods
 
+Note 5/13/20: Just putting it in writing that this course plan will need to be structured for online delivery as well as an in-person lecture hall.
+
 TODO:
 - start planning a class structure.
   - talkshow/gameshow format: 10 minutes of X, then 20 minute segment of Y, segment of Z, etc.
