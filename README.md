@@ -24,7 +24,8 @@ Note 5/13/20: Just putting it in writing that this course plan will need to be s
 Note 6/15/20: Confirmed by Jeremy Shellhorn, likely plan for this to be all online.  How do we make it engaging and useful?
 
 - can they tackle a personal project and apply these tools to a single project all the way through? MAYBE?
-- can we allow all their work to be submitted and tracked online? yes
+- can we allow all their work to be submitted and tracked online?
+- feels like a way to dogfood the Institute or Badge platform :)
 
 Title lectures / components with outcomes and new skills in mind. What is a student going to GET out of this?
 
