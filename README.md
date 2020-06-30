@@ -5,13 +5,18 @@ This course is an overview of design methods; it's targeted to be primarily lect
 
 Design mockups are a hammer. Let's talk about calipers. Voltmeters. Excavators.
 
+### KU Description from Schedule of Classes
+**Advanced Design Studies - Foundations in UI/UX Design ( 3 ) Fall 2020**
+This course examines the fundamental principles and materials underlying the interactions between people, artifacts, and systems. Students will be introduced to a variety of new tools and techniques that will facilitate the prototyping of interactions/user interfaces/experiences of mobile devices, desktop devices, cars, games, consoles, kiosks, and/or apps. Projects, lectures and tutorials will provide a working knowledge of fundamental principles, processes and current tools. Prerequisite: Corequisite: INDD 302 for Industrial Design students or VISC 304 for Visual Communication Design students. Instructor consent required for all other students.
+TuTh   04:00 - 05:15 PM MAR 216B - LAWRENCE   
+
 ## Who this course is for
 
 This course is for undergraduate designers in ID, Viscom, and other fields within KU's School of Design. You might be a sophomore or junior. You want to design stuff for people.
 
 ## What you'll learn
 
-When this course is complete, you'll have a new toolbox of ways to approach a design project. You'll have broad familiarity with specific user-centered design practices, some experience using them, and most importantly you'll have an idea of when it's appropriate to use what kind of tool. 
+When this course is complete, you'll have a new toolbox of ways to approach a design project. You'll have broad familiarity with specific user-centered design practices, some experience using them, and most importantly you'll have an idea of when it's appropriate to use what kind of tool.
 
 ## Matt's ongoing notes
 
