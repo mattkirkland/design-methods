@@ -32,14 +32,23 @@ Note 6/15/20: Confirmed by Jeremy Shellhorn, likely plan for this to be all onli
 - can we allow all their work to be submitted and tracked online?
 - feels like a way to dogfood the Institute or Badge platform :)
 
-Title lectures / components with outcomes and new skills in mind. What is a student going to GET out of this?
+*Title lectures / components with outcomes and new skills in mind.*  What is a student going to GET out of this?
+
+
+
+Note 7/1/20:
+Each class session can just be a design method! One per class, an intro to 26 new design methods. Maybe?
+
+Scheduling: Class is 75 minutes, Tue/Thur! 13 weeks in new structure, ish, so 27 sessions?
+
+This is 13 weeks, so we can do 3 sections of 4 weeks: inspiration/ideation/implementation or look/understand/make ?  Or better yet, get some of the iteration built in, some kind of look / design / test / design / test etc.
 
 TODO:
-- start planning a class structure.
+- start planning a class structure.  
   - talkshow/gameshow format: 10 minutes of X, then 20 minute segment of Y, segment of Z, etc.
-- list of design methods
-  - survey some books
-  - start here too: https://www.designkit.org/methods#filter
+X - list of design methods
+  X - survey some books
+  X - start here too: https://www.designkit.org/methods#filter
 - how to make this studio-like but not a studio course.
   - how can students test out these methodologies?
   - we don't need to grade their effectiveness, we just need to verify that the students tried out the method.
