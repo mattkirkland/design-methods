@@ -1,0 +1,40 @@
+- elements of UX (JJG diagram)
+- Empathy / Contempt
+- error protection / recovery
+- don norman stuff.
+  - that's probably a lecture by itself
+-   
+- 1.2 popular media scan (read the internet)
+- 2.7 Analogous Models
+- 2.8 Competitors / Complementors
+- 2.12 SME interview
+- 4.15 user groups definition (basically real-people-driven personas)
+- 4.17 user journey mapping
+- 5.4 Persona definition
+- 7.4 Pilot Plans
+- video scenario
+- thumbnail sketch
+- sketch prototype
+- cardboard mockup / paper prototype
+- internet prototype
+- ab tests
+- data driven usage / analytics
+- heatmap
+- eye-tracking
+- interviews
+- contextual inquiry
+- literature / niche reading
+- interest groups (find the subreddit, join a knitting circle)
+- affinity mapping / card sort
+- surveys (likert, etc)
+- focus group
+- buy a feature
+- group critique
+- heuristic analysis
+- guerilla usability study (task based, always!)
+- structured usability study
+- lab usablity studies
+- post-study interviews
+
+DON NORMAN STUFF (feedback, affordances, mental models, mapping)
+GESTALT PRINCIPLES (please say they know them)

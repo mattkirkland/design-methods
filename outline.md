@@ -78,3 +78,30 @@ Making
   - video scenario
   - cover story mockup
   - quick reference guide
+
+
+
+Matt's THINGS I WANT TO COVER
+Empathy / Contempt
+error protection / recovery
+
+DON NORMAN STUFF (feedback, affordances, mental models, mapping)
+GESTALT PRINCIPLES (please say they know them)
+-
+--------
+101 Design Methods, Vijay Kumar
+I really don't like most of this guy's content, and the tone is very corporatey 'how to drive innovation in your organization'. But here are some methods we should cover!
+
+I do like his iterative model of the quadrants and pathways, kind of.
+
+1.2 popular media scan (read the internet)
+2.7 Analogous Models
+2.8 Competitors / Complementors
+2.12 SME interview
+4.15 user groups definition (basically real-people-driven personas)
+4.17 user journey mapping
+5.4 Persona definition
+7.4 Pilot Plans
+
+
+-

@@ -12,8 +12,10 @@ As of 7/1/20, KU fall schedule is posted as:
 ## SO...
 That makes the fall calendar look like:
 
-- TUE Aug 24
-- THU Aug 26
+- TUE Aug 24 - intro, syllabus, format, online stuff.
+- THU Aug 26 - general 'how to approach UX design', props to branham, design is design. elements of user experience JJG model and walkthru this slowly.
+
+LEARN
 - TUE Sep 1
 - THU Sep 3
 - TUE Sep 8
@@ -23,6 +25,7 @@ That makes the fall calendar look like:
 - TUE Sep 22
 - THU Sep 24
 - TUE Sep 29
+MAKE
 - THU Oct 1
 - TUE Oct 6
 - THU Oct 8
@@ -32,6 +35,7 @@ That makes the fall calendar look like:
 - THU Oct 22
 - TUE Oct 27
 - THU Oct 29
+TEST
 - TUE Nov 3
 - THU Nov 5
 - TUE Nov 10
