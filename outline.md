@@ -87,6 +87,9 @@ error protection / recovery
 
 DON NORMAN STUFF (feedback, affordances, mental models, mapping)
 GESTALT PRINCIPLES (please say they know them)
+uh, viktor papanek stuff?
+monteiro design ethics? probably not.
+tufte usability of print? at least bring him in!
 -
 --------
 101 Design Methods, Vijay Kumar

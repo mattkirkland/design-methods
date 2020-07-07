@@ -28,4 +28,5 @@ X - list of design methods
   - how can students test out these methodologies?
   - we don't need to grade their effectiveness, we just need to verify that the students tried out the method.
 - go thru LUMA book
-- go thru universal methods book 
+X - go thru universal methods book
+- organize methods-to-cover.md into logical groups!
