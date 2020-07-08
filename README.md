@@ -1,7 +1,7 @@
 # design-methods
 Seminar course on design methods.  
 
-This course is an overview of design methods; it's targeted to be primarily lecture and demonstration. We will survey the landscape of design methodologies to apply to your design projects. That sounds kind of formal, but really this is an introduction to a bag of tools you can use when you're tackling any kind of design project.   
+This course is an overview of design methods; it's targeted to be primarily lecture and demonstration. We will survey the landscape of design methodologies to apply to your design projects. That sounds kind of formal, but really this is an introduction to a bag of tools you can use when you're tackling any kind of design project. 
 
 Design mockups are a hammer. Let's talk about calipers. Voltmeters. Excavators.
 
@@ -27,7 +27,7 @@ X - list of design methods
 - how to make this studio-like but not a studio course.
   - how can students test out these methodologies?
   - we don't need to grade their effectiveness, we just need to verify that the students tried out the method.
-- go thru LUMA book
+X - go thru LUMA book
 X - go thru universal methods book
 X - organize methods-to-cover.md into logical groups!
-- comb thru outline.md and put into matt_outline.md
+X - comb thru outline.md and put into matt_outline.md

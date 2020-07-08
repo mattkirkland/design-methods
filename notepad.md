@@ -36,4 +36,7 @@ Could I imagine a format where each week (class?) there is a homework thing that
 Keep a spreadsheet online of all the homework done/not done stuff.
 
 OVERVIEW: should I structure this in an iterative way, rather than learn/make/test?
-Like, they could apply all of these to a single project with increasing fidelity and actually make a project better?   Or at least circle thru the 
+Like, they could apply all of these to a single project with increasing fidelity and actually make a project better?   Or at least circle thru the
+
+### 7/7/20:
+Arranged some methods into my general outline. Synthesized Luma book structure into my own.
