@@ -31,3 +31,4 @@ X - go thru LUMA book
 X - go thru universal methods book
 X - organize methods-to-cover.md into logical groups!
 X - comb thru outline.md and put into matt_outline.md
+- comb thru the IDEO list in design-methods-list.md
