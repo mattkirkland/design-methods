@@ -29,4 +29,5 @@ X - list of design methods
   - we don't need to grade their effectiveness, we just need to verify that the students tried out the method.
 - go thru LUMA book
 X - go thru universal methods book
-- organize methods-to-cover.md into logical groups!
+X - organize methods-to-cover.md into logical groups!
+- comb thru outline.md and put into matt_outline.md
