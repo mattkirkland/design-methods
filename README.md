@@ -32,3 +32,10 @@ X - go thru universal methods book
 X - organize methods-to-cover.md into logical groups!
 X - comb thru outline.md and put into matt_outline.md
 X - comb thru the IDEO list in design-methods-list.md
+
+QUESTIONS FOR 🐚📯
+- should i get started with KU as official staff?
+- he said that this could have TAs. What's the process?
+- tech requirements? Can I just use my zoom account?
+  - do I need make recordings available?
+- do they have other guidance for instructors?
