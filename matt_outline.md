@@ -6,6 +6,7 @@ IE, Matt's basics. check ACM toolkit presentation
 - UX intro, JJG diagram, etc.  
 - Set up basic framework: Research, Design, Test, Design, Test.
 - DON NORMAN STUFF (feedback, affordances, mental models, mapping) (that's probably 2, 3, 4?)
+  - see https://www.sharritt.com/CISHCIExam/norman.html
 - GESTALT PRINCIPLES (please say they know them)
 - Empathy / Contempt
 - error protection / recovery

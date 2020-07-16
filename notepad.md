@@ -40,3 +40,12 @@ Like, they could apply all of these to a single project with increasing fidelity
 
 ### 7/7/20:
 Arranged some methods into my general outline. Synthesized Luma book structure into my own.
+
+### QUESTIONS FOR 🐚📯
+- should i get started with KU as official staff?
+  - like, i need to get hired as a lecturer again presumably?
+- he said that this could have TAs. What's that process?
+- tech requirements? Can I just use my zoom account?
+  - do I need make recordings available?
+- do they have other guidance for instructors?
+- when do i see class roster?
