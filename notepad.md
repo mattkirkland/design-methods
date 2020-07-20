@@ -50,6 +50,16 @@ It could be a great portfolio piece? Plus they can export it to HTML, PDF, text.
 STRONGLY leaning to this.
 Then Me and a TA (if any) can just check the lab notebook each week and just mark yes/no if they've done the work. I... kind of love it?
 
+Pat recommends: they'll definitely need a prompt to help some students get started.
+
+- pick a design method
+- try it out on your pet project
+- document it! write up what you did
+  - what I did
+  - what I learned
+  - what I was suprised by
+  - what I'd do next time 
+
 ### QUESTIONS FOR 🐚📯
 - should i get started with KU as official staff?
   - like, i need to get hired as a lecturer again presumably?
