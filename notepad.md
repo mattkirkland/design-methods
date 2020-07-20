@@ -44,8 +44,10 @@ Arranged some methods into my general outline. Synthesized Luma book structure i
 ### QUESTIONS FOR 🐚📯
 - should i get started with KU as official staff?
   - like, i need to get hired as a lecturer again presumably?
+  - yup, applied on 7/20/20
 - he said that this could have TAs. What's that process?
-- tech requirements? Can I just use my zoom account?
-  - do I need make recordings available?
+  - he doesn't know, he will check on hiring one or looking at students?
 - do they have other guidance for instructors?
+  - 7/20/20 not really, 100% online/remote, seems like it's pretty hands-off
 - when do i see class roster?
+  - got it, now inside https://sa.ku.edu/
