@@ -41,6 +41,15 @@ Like, they could apply all of these to a single project with increasing fidelity
 ### 7/7/20:
 Arranged some methods into my general outline. Synthesized Luma book structure into my own.
 
+### 7/20/20:
+OK, so I am strongly leaning towards having the students pick out a pet design project, and write a 'lab notebook' in Notion. It can be a place they reflect on the week's activity and write about testing out some method on their project.
+
+By the end of the semester they'll have an overview of a bunch of new methods they have learned about and tested, and written about.
+It could be a great portfolio piece? Plus they can export it to HTML, PDF, text.
+
+STRONGLY leaning to this.
+Then Me and a TA (if any) can just check the lab notebook each week and just mark yes/no if they've done the work. I... kind of love it?
+
 ### QUESTIONS FOR 🐚📯
 - should i get started with KU as official staff?
   - like, i need to get hired as a lecturer again presumably?
