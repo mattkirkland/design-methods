@@ -12,7 +12,11 @@ IE, Matt's basics. check ACM toolkit presentation
 - error protection / recovery
 
 ### Research & Synthesis (most of these methods can be used to test your designs!)
-Why research????
+
+Why research???? (erika hall!)
+
+Who ARE the users you're targeting?
+
 Ethnographic
 - desirepath/annotations etc (see how / where users try to fix or annotate things in real life) (UM 92)  
 - graffiti walls (UM 45) (mk for cowards)
@@ -53,6 +57,7 @@ Evaluative - evaluating or synthesizing what you've learned
 
 
 ### Designing
+
 How to arrange these?  low-fidelity to high, perhaps.
 
 Talking About it

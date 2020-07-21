@@ -48,7 +48,7 @@ By the end of the semester they'll have an overview of a bunch of new methods th
 It could be a great portfolio piece? Plus they can export it to HTML, PDF, text.
 
 STRONGLY leaning to this.
-Then Me and a TA (if any) can just check the lab notebook each week and just mark yes/no if they've done the work. I... kind of love it?
+Then Me and a TA (if any) can just check the lab notebook each week and just mark yes/no if they've done the work. I... kind of love it?  Done = full points. Not done = no points. Late = no points.
 
 Pat recommends: they'll definitely need a prompt to help some students get started.
 
@@ -58,7 +58,7 @@ Pat recommends: they'll definitely need a prompt to help some students get start
   - what I did
   - what I learned
   - what I was suprised by
-  - what I'd do next time 
+  - what I'd do next time
 
 ### QUESTIONS FOR 🐚📯
 - should i get started with KU as official staff?
@@ -70,3 +70,21 @@ Pat recommends: they'll definitely need a prompt to help some students get start
   - 7/20/20 not really, 100% online/remote, seems like it's pretty hands-off
 - when do i see class roster?
   - got it, now inside https://sa.ku.edu/
+
+### 7/21/20
+I like the general outline here but IF we are going to have students do a pet project all the way with something they workshop in a lab notebook, then... probably the class should be arranged more iteratively - so they can get into a cycle of design > test > design > test.
+
+The Notion Notebook / Lab Workbook / Design Diary /  is a diary of developing your Pet Project. The pet project can be anything, as long as you're interested in it, it has an identifiable group of users (that aren't you), and you're willing to think about it for a semester. Could be:
+
+- a better organizational system for your pokemon cards
+- a book review site that's for a closed circle of friends
+- a new app to guide museum visitors around the Spencer
+- a refrigerated case for my cheese collection
+- a bag to organize knitting supplies
+- a series of posters to convince people to take some political action
+- wayfinding signage for your favorite sports facility / museum / campus
+- a guidebook to teach others how to make protest infrastructure
+
+It doesn't have to be a NEW idea or something that's never been done. You just are going to need to be interested in it!
+
+MK: make an example copy that they can duplicate and then fill out.

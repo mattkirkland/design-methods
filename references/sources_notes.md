@@ -23,3 +23,13 @@ Other rubrics:
 
 ## Luma book
 Great overview, lightweight but just the right amount.
+
+## videos and stuff?
+Steve Blank It's Our Research interview  https://www.youtube.com/watch?v=d6pRCTV45Zs
+- about how and why research outta happen.
+Erika Hall, Just Enough Research https://www.youtube.com/watch?v=5WtB5FRn-Sc
+check my texts list from ADS560 http://mattkirkland.com/ads560/texts.html
+
+## Entrepreneurial Designing
+Gary Chou
+https://docs.google.com/document/d/1TBjKUCOzc9PsvShQUw2jk5SW0g3HkXaAj_2gUSmKylk/edit
