@@ -24,9 +24,9 @@ TODO:
 X - list of design methods
   X - survey some books
   X - start here too: https://www.designkit.org/methods#filter
-- how to make this studio-like but not a studio course.
-  - how can students test out these methodologies?
-  - we don't need to grade their effectiveness, we just need to verify that the students tried out the method.
+X - how to make this studio-like but not a studio course.
+  X - how can students test out these methodologies?
+  X - we don't need to grade their effectiveness, we just need to verify that the students tried out the method.
 X - go thru LUMA book
 X - go thru universal methods book
 X - organize methods-to-cover.md into logical groups!

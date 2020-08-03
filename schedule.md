@@ -15,10 +15,11 @@ That makes the fall calendar look like:
 - TUE Aug 24 - intro, syllabus, format, online stuff.
 - THU Aug 26 - general 'how to approach UX design', props to branham, design is design. elements of user experience JJG model and walkthru this slowly.
 
+
+- TUE Sep 1 - your notion notebook / process journal / etc
+- THU Sep 3 - Don Norman in one lecture
 LEARN
-- TUE Sep 1
-- THU Sep 3
-- TUE Sep 8
+- TUE Sep 8 - your pet project should be chosen by now.
 - THU Sep 10
 - TUE Sep 15
 - THU Sep 17

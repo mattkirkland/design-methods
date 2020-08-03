@@ -84,7 +84,31 @@ The Notion Notebook / Lab Workbook / Design Diary /  is a diary of developing yo
 - a series of posters to convince people to take some political action
 - wayfinding signage for your favorite sports facility / museum / campus
 - a guidebook to teach others how to make protest infrastructure
+- that board game you've been wanting to make
 
 It doesn't have to be a NEW idea or something that's never been done. You just are going to need to be interested in it!
 
 MK: make an example copy that they can duplicate and then fill out.
+
+### 8/3/20
+OK, definitely going to go with the structure of:
+- pick a pet project
+- once per week you write up how you tested out one of the methods that we covered that weeks
+- we review questions and
+- that's the only homework
+- by the end of the semester you can have a nice portfolio of miniature casestudies
+- the final will be a real test covering basic information about what design methods are.
+
+SO.
+- make a questions form for feedback, etc, dump into a spreadsheet
+- set up form for basic information? name, preferred name, email, anything you want me to know about you, etc?
+- start finding async videos/resources for each method. Each intro day should have a lecture-based 'this is what this is' and a bibliography of resources to read/watch/follow.
+
+
+CLASS STRUCTURE:
+
+0-5. Warmup. QOTD. some kind of engaging thing, Matt Web waving fast or slow.
+5-15. Review interesting notes/highlights from student notion journals, drive home patterns
+15-45. New content, lecture. Do I want more time?
+45-60.
+60-75. Questions?
