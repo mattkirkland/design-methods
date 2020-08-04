@@ -11,7 +11,7 @@ IE, Matt's basics. check ACM toolkit presentation
 - Empathy / Contempt
 - error protection / recovery
 
-### Research & Synthesis (most of these methods can be used to test your designs!)
+### Research & Synthesis (most of these methods can also be used to test your designs!)
 
 Why research???? (erika hall!)
 
@@ -69,9 +69,8 @@ Talking About it
 
 Making it
 - storyboards
-- wireframes
-- design tiles
 - thumbnail sketch
+- wireframes
 - sketch prototype
 - cardboard mockup / paper prototype
 - internet prototype
@@ -80,7 +79,9 @@ Making it
 - video scenario
 - video prototype
 - pitch / commercial / cover story / etc
-- generative design (ie, nervous systm, Machine learning, etc?)
+- design tiles
+- generative design (ie, nervous system, Machine learning, etc?)
+- mockups
 
 ### Testing
 

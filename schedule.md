@@ -19,8 +19,8 @@ That makes the fall calendar look like:
 - TUE Sep 1 - your notion notebook / process journal / etc
 - THU Sep 3 - Don Norman in one lecture
 LEARN
-- TUE Sep 8 - your pet project should be chosen by now.
-- THU Sep 10
+- TUE Sep 8 - your pet project should be chosen by now.  Intro to research - why do designers research?
+- THU Sep 10 - 
 - TUE Sep 15
 - THU Sep 17
 - TUE Sep 22
