@@ -70,7 +70,7 @@ Talking About it
 Making it
 - storyboards
 - thumbnail sketch
-- wireframes
+- wireframes  
 - sketch prototype
 - cardboard mockup / paper prototype
 - internet prototype
@@ -94,6 +94,7 @@ Usability Testing
 - lab usablity studies
 - remote user testing
 - heuristic analysis
+- system usability scale
 
 Data-Driven
 - ab tests
