@@ -10,6 +10,9 @@ IE, Matt's basics. check ACM toolkit presentation
 - GESTALT PRINCIPLES (please say they know them)
 - Empathy / Contempt
 - error protection / recovery
+- human factors & cogsci lite 
+- accessibility / universal design
+-
 
 ### Research & Synthesis (most of these methods can also be used to test your designs!)
 

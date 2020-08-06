@@ -16,19 +16,21 @@ This course is for undergraduate designers in ID, Viscom, and other fields withi
 
 ## What you'll learn
 
-When this course is complete, you'll have a new toolbox of ways to approach a design project. You'll have broad familiarity with specific user-centered design practices, some experience using them, and most importantly you'll have an idea of when it's appropriate to use what kind of tool.
+When this course is complete, you'll have a new toolbox of ways to approach a design project. You'll have broad familiarity with specific user-centered design practices, some experience using some of them, and most importantly you'll have an idea of when it's appropriate to use what kind of tool.
 
 TODO:
-- start planning a class structure.  
-  - talkshow/gameshow format: 10 minutes of X, then 20 minute segment of Y, segment of Z, etc.
-X - list of design methods
-  X - survey some books
-  X - start here too: https://www.designkit.org/methods#filter
-X - how to make this studio-like but not a studio course.
-  X - how can students test out these methodologies?
-  X - we don't need to grade their effectiveness, we just need to verify that the students tried out the method.
-X - go thru LUMA book
-X - go thru universal methods book
-X - organize methods-to-cover.md into logical groups!
-X - comb thru outline.md and put into matt_outline.md
-X - comb thru the IDEO list in design-methods-list.md
+ - X start planning a class structure.  
+   - X talkshow/gameshow format: 10 minutes of X, then 20 minute segment of Y, segment of Z, etc.
+   - X eh, sort of
+ - X list of design methods
+ - X survey some books
+ - X start here too: https://www.designkit.org/methods#filter
+ - X how to make this studio-like but not a studio course.
+   - X how can students test out these methodologies?
+   - X we don't need to grade their effectiveness, we just need to verify that the students tried out the method.
+ - X go thru LUMA book
+ - X go thru universal methods book
+ - X organize methods-to-cover.md into logical groups!
+ - X comb thru outline.md and put into matt_outline.md
+ - X comb thru the IDEO list in design-methods-list.md
+ - tidy this readme into a syllabus

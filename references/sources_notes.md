@@ -35,18 +35,5 @@ Gary Chou
 https://docs.google.com/document/d/1TBjKUCOzc9PsvShQUw2jk5SW0g3HkXaAj_2gUSmKylk/edit
 
 ## Core Interaction from Parsons
-Cybele Grandjean & Talia Cotton 
+Cybele Grandjean & Talia Cotton
 https://coreinteractionf19.tk/
-
-
-1. product research
-2. interviews and personas
-3. user flows and competitive analysis
-4. Content, Card Sort, Sitemap
-5. Navigation, IxD principles, wireframing, sketching
-6. grids, responsive design, hierarchy
-7. Heuristics & User testing
-8. Branding & Visual Design
-9. Type on Screen
-10. Art Direction, Color, Accessibility
-11. SVG, Individual Meetings

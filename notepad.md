@@ -128,3 +128,15 @@ For each week, attempt using one (or more) methods on your pet project.
 They need to have this done by Tuesday at 8am. If it's not done, no questions asked, you just don't get credit for it. No questions asked, no excuses.
 
 Want to make it up? Do a book report on one of matt's 'books every designer should read' and post it on your notion. Email matt to tell me you did it.  (matt make list)
+
+Maybe the time class breakdown is more like:
+- TUE:
+  30min review from last week (call out notion examples, etc)
+  45min lecture on new topic
+- THU:
+  15min recap on new topic
+  15min point to online resources
+  30min talk about how to apply methods
+  15min questions
+
+  

@@ -192,21 +192,46 @@ MAKE
 9. Type on Screen
 10. Art Direction, Color, Accessibility
 
+# TAKE 4
+
 WEEKS:
 1. intro. Human-centered Design: basic idea that we need to listen to the people who use the stuff we make.
-
+  - assignment: start thinking about pet project.
 2. UX crash course. JJG and Don Norman.
-3. Human Factors crash course (cog sci! measurements of the body.). Accessibility! Color. People with bodies!
+  - assignment: fill out project brief.
+3. Human Factors crash course (cog sci! ergonomics. et cetera.). Accessibility! Color. People with bodies!
   "How to design for people with bodies"
-  After this week you're going to have a broad understanding of design challenges and design tools for those people made of meat that you want to use your stuff.
+  After this week you're going to have a broad understanding of design *challenges* and design *tools* for those people made of meat that you want to use your stuff.
+    - physical thing: how big are handles? how long is a leg?
+    - graphic design: how fast do people read? from how far away? when they are doing stuff?
+    - phone app:
+    - interior architecture: how wide should a door be? how where's a light switch go? how do people move through an unfamiliar space?
+  - assignment: fill out
 4. context Research
-5. ethnography
-  2. interviews and personas
-6. user story, user flow, swimlane
-7. content, card sort, sitemap, pitch deck,
-8. wireframe, thumbnail, sketching, paperprototypes. guerilla usability
-9. wizard of oz,  user testing, lab testing.
-10. refined prototype, refined user testing. (video mockup, visual mockups, interactive prototype, etc)
-11. repeat!
+  "How to design for the problem space"
+  - assignment: method test & report
+5. ethnography research, interviews
+  - reading: https://alistapart.com/article/interviewing-humans/
+  - assignment: method test & report
+6. personas, user story, user flow, swimlane
+  - assignment: method test & report
+
+7. content, card sort, sitemap, pitch deck
+  - assignment: method test & report
+
+8. wireframe, thumbnail, sketching, paperprototypes.
+- assignment: method test & report
+
+9. guerilla usability, wizard of oz, user testing,
+- assignment: method test & report
+
+10. refined prototype, refined user testing. lab testing. (video mockup, visual mockups, interactive prototype, etc)
+- assignment: method test & report
+
+11. iterate!
+- assignment: method test & report
+
 12. data-driven Methods
+- assignment: method test & report
+
 14. last class, review.
