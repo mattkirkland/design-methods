@@ -110,5 +110,21 @@ CLASS STRUCTURE:
 0-5. Warmup. QOTD. some kind of engaging thing, Matt Web waving fast or slow.
 5-15. Review interesting notes/highlights from student notion journals, drive home patterns
 15-45. New content, lecture. Do I want more time?
-45-60.
+45-60. Point to online resources for more. Talk about applying
 60-75. Questions?
+
+### 8/5/20
+So, structure for daily class is probs OK. Now to organize the content week-by-week.
+And then fill out content for each week. And then make sample notion notebook to follow.
+
+
+For each week, attempt using one (or more) methods on your pet project.
+- what I did (what method is this?)
+- describe how you did it
+- show some documentation (a photo, a video, an artifact, etc)
+- what I learned about my project
+- Questions I had about this method (was it OK to _____? should I have _____? What am I supposed to do when _____ happens?)
+
+They need to have this done by Tuesday at 8am. If it's not done, no questions asked, you just don't get credit for it. No questions asked, no excuses.
+
+Want to make it up? Do a book report on one of matt's 'books every designer should read' and post it on your notion. Email matt to tell me you did it.  (matt make list)

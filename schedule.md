@@ -12,35 +12,39 @@ As of 7/1/20, KU fall schedule is posted as:
 So: That makes the fall calendar look like:
 
 ## GET STARTED
-### WEEK 1
+### WEEK 1 - Kickoff
 - TUE Aug 24
 - THU Aug 26
-intro, syllabus, format, online stuff. General 'how to approach UX design', props to branham, design is design. elements of user experience JJG model and walkthru this slowly.
+intro, syllabus, format, online stuff. General Human-Centered Design, 'how to approach UX design', props to branham, design is design. elements of user experience JJG model and walkthru this slowly. 'usability' as concept just thrown around vs shown via what users do. Nielson/Norman group.
 
-### WEEK 2
+### WEEK 2 - Meet Uncle Don
 - TUE Sep 1
 - THU Sep 3
-your notion notebook / process journal / etc. Review JJG. Don Norman in one lecture.
+your notion notebook / process journal / etc. Don Norman in one lecture.
 You should have pet project selected by now.
+- Assignment: start your project notebook and fill out the 'my design project'
 
 
-## LEARN
+## METHODS: LEARN / RESEARCH / LISTEN
 
-### WEEK 3
+### WEEK 3 - Intro to research
 - TUE Sep 8
 - THU Sep 10
-Intro to research - why do designers research?   
+Intro to research - why do designers research? what kinds of things qualify as research?  
+- Erika hall, just enough research.
+- get excited to be wrong
+-
 
-### WEEK 4
+### WEEK 4 - Ethnographic Research Methods
 - TUE Sep 15
 - THU Sep 17
 #### ethnographic research:
     - desirepath/annotations etc (see how / where users try to fix or annotate things in real life) (UM 92)  
-    - graffiti walls (UM 45) (mk for cowards)
     - interest groups (find the subreddit, join a knitting circle)
     - contextual inquiry
     - literature / niche reading
     - ethnography / (UM 27)"design ethnography"
+    - field study
     - diary studies
     - ergonomic data / analysis (UM 33)
     - human factors! (cogsci )
@@ -50,10 +54,10 @@ Intro to research - why do designers research?
     - 4.15 user groups definition (basically real-people-driven personas)
     - behavioral mapping (UM: '06')
 
-### WEEK 5
+### WEEK 5 - Participatory Research Methods
 - TUE Sep 22
 - THU Sep 24
-#### participatory research
+#### participatory research methods
     - focus group (UM 43)
     - buy a feature
     - affinity diagram / card sort
@@ -62,8 +66,10 @@ Intro to research - why do designers research?
     - crowdsource / mechanical turk
     - love letter / breakup letter (UM 54)
     - brainstorming / graphic organizers / mind maps / that kind of BS
+    - graffiti walls (UM 45) (mk for cowards)
+    - swimlane diagrams (??)
 
-### WEEK 6
+### WEEK 6 - Evaluative Research Methods
 - TUE Sep 29  
 - THU Oct 1
 #### evaluative research
@@ -91,10 +97,10 @@ Intro to research - why do designers research?
 #### Talking about it - define the vision
   - 5.4 Persona definition
   - user story
+  - 4.17 user journey mapping (UM 95) / diagrams
   - swimlane diagrams (UM 72)
-  - 4.17 user journey mapping (UM 95)
   - moodboard / brandboard
-  - pitch / commercial / cover story / etc
+  - pitch deck / commercial / cover story / etc
 
 ### WEEK 9
 - TUE Oct 20  
@@ -137,6 +143,7 @@ Intro to research - why do designers research?
   - remote user testing
   - lab usability studies
   - heuristic analysis
+  - post-study interviews
 
 
 ### WEEK 13
@@ -151,7 +158,6 @@ Intro to research - why do designers research?
 
 
 #### Talking about it - What users SAY
-  - post-study interviews
   - focus group
   - group critique
   - surveys (likert, etc)
@@ -159,7 +165,9 @@ Intro to research - why do designers research?
 
 ### WEEK 14
 - TUE Nov 24 -
-short week, last class. recap state of notion notebooks?
+short week, last class. recap state of notion notebooks
+
+BONUS ROUND,
 BONUS ROUND, Design Ethics
   - victor papanek, design for the real world
   - E F Schumacher, small is beautiful
@@ -183,3 +191,22 @@ MAKE
 8. Branding & Visual Design
 9. Type on Screen
 10. Art Direction, Color, Accessibility
+
+WEEKS:
+1. intro. Human-centered Design: basic idea that we need to listen to the people who use the stuff we make.
+
+2. UX crash course. JJG and Don Norman.
+3. Human Factors crash course (cog sci! measurements of the body.). Accessibility! Color. People with bodies!
+  "How to design for people with bodies"
+  After this week you're going to have a broad understanding of design challenges and design tools for those people made of meat that you want to use your stuff.
+4. context Research
+5. ethnography
+  2. interviews and personas
+6. user story, user flow, swimlane
+7. content, card sort, sitemap, pitch deck,
+8. wireframe, thumbnail, sketching, paperprototypes. guerilla usability
+9. wizard of oz,  user testing, lab testing.
+10. refined prototype, refined user testing. (video mockup, visual mockups, interactive prototype, etc)
+11. repeat!
+12. data-driven Methods
+14. last class, review.
