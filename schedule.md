@@ -6,7 +6,7 @@
 - TUE Aug 24
 - THU Aug 26
 
-intro, syllabus, format, online stuff. General Human-Centered Design, 'how to approach UX design', props to branham, design is design. elements of user experience JJG model. 'usability' as value judgement vs  just thrown around vs shown via what users do. Nielson/Norman group version of Usability.
+intro, syllabus, format, online stuff. General Human-Centered Design, 'how to approach UX design', elements of user experience JJG model. 'usability' as value judgement vs  just thrown around vs shown via what users do. Nielson/Norman group version of Usability.
 
 ## UX Fundamental Concerns
 
@@ -16,7 +16,9 @@ intro, syllabus, format, online stuff. General Human-Centered Design, 'how to ap
 
 Don Norman in one lecture. Mental Models, Mapping, Visbility, Discoverability, Affordances, Feedback.
 You should have pet project selected by now. Your notion notebook / process journal / etc.
-- Assignment: start your project notebook and fill out the 'my design project brief', share.
+
+#### Assignment
+- start your project notebook and fill out the 'my design project brief', share.
 
 ### WEEK 3 - How to design for people with bodies
 - TUE Sep 8
@@ -42,18 +44,19 @@ After this week you're going to have a broad understanding of design *challenges
 
 #### Ethnographic Research:
 Find out what your users do now! Light touch overview of research models.
-    - desirepath/postit/annotations etc (UM 92)  
-    - interest groups (find the subreddit, join a knitting circle)
-    - literature / niche reading
-    - ethnography / (UM 27)"design ethnography"
-    - field study
-    - contextual inquiry
-    - diary studies
-    - interviews - UM 48
-    - 1.2 popular media scan (read the internet)
-    - 2.12 SME interview
-    - 4.15 user groups definition (basically real-people-driven personas)
-    - behavioral mapping (UM: '06')
+
+- desirepath/postit/annotations etc (UM 92)  
+- interest groups (find the subreddit, join a knitting circle)
+- literature / niche reading
+- ethnography / (UM 27)"design ethnography"
+- field study
+- contextual inquiry
+- diary studies
+- interviews - UM 48
+- 1.2 popular media scan (read the internet)
+- 2.12 SME interview
+- 4.15 user groups definition (basically real-people-driven personas)
+- behavioral mapping (UM: '06')
 
 Reading: https://alistapart.com/article/interviewing-humans/
 
@@ -67,16 +70,17 @@ Reading: https://alistapart.com/article/interviewing-humans/
 - THU Sep 24
 
 Participatory Research MethodsWork with your users and get their active engagement.
-    - focus group (UM 43)
-    - buy a feature
-    - affinity diagram / card sort
-    - surveys (likert, etc)
-      - semantic differential (UM 75), etc
-    - crowdsource / mechanical turk
-    - love letter / breakup letter (UM 54)
-    - brainstorming / graphic organizers / mind maps / that kind of BS
-    - graffiti walls (UM 45) (mk for cowards)
-    - swimlane diagrams (of existing states!)
+
+- focus group (UM 43)
+- buy a feature
+- affinity diagram / card sort
+- surveys (likert, etc)
+  - semantic differential (UM 75), etc
+- crowdsource / mechanical turk
+- love letter / breakup letter (UM 54)
+- brainstorming / graphic organizers / mind maps / that kind of BS
+- graffiti walls (UM 45) (mk for cowards)
+- swimlane diagrams (of existing states!)
 
 #### assignment
 - choose a flavor of Participatory research; do it and report findings in your playground notebook.
@@ -88,6 +92,7 @@ Participatory Research MethodsWork with your users and get their active engageme
 - THU Oct 1
 
 personas, user story, user flow, swimlane
+
 - heuristic analysis
 - task analysis (UM 84), related to Contextual inquiry
 - mental model diagram (UM 55)  
@@ -169,22 +174,25 @@ Formal usability testing, remote user testing, lab usability studies, post-study
   - data driven usage / google analytics / (universal methods: '05 automated remote research'), wistia video heatmap, etc.  
   - click tracking (viz as heatmap or pathways)
   - eye-tracking (viz as heatmap or pathways) (UM 40)
-
+  - idea of 'local maximum'
+  
 #### assignment
-- choose a flavor of Evaluative research; do it and report findings in your playground notebook.
+- choose a flavor of research; do it and report findings in your playground notebook.
 
 ## BONUS ROUND
 
 ### WEEK 13 - Bonus round: additional fun design methodologies
 - TUE Nov 17  
 - THU Nov 19
-Participatory Design. Generative Design. Machine Learning.
+
+Participatory Design. Generative Design. Machine Learning. Etc.
 
 #### assignment: ???
 
 ### WEEK 14 - Wrap up
 - TUE Nov 24 -
 - THU Nov 26 (Thanksgiving break)
+
 short week, last class. Recap state of notion notebooks
 
 ### WEEK 15 - 'Study Week'
@@ -197,6 +205,7 @@ short week, last class. Recap state of notion notebooks
 -------------------
 
 BONUS ROUND, Design Ethics, would be nice to shoehorn in somewhere
-  - victor papanek, design for the real world
-  - E F Schumacher, small is beautiful
-  - monteiro, ruined by design
+  - Papanek, design for the real world
+  - Schumacher, small is beautiful
+  - Monteiro, ruined by design
+  - etc
