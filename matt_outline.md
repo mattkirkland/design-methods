@@ -10,7 +10,7 @@ IE, Matt's basics. check ACM toolkit presentation
 - GESTALT PRINCIPLES (please say they know them)
 - Empathy / Contempt
 - error protection / recovery
-- human factors & cogsci lite 
+- human factors & cogsci lite
 - accessibility / universal design
 -
 
@@ -120,3 +120,4 @@ Design Ethics
 - victor papanek,
 - E F Schumacher, small is beautiful
 - monteiro, ruined by design
+- how to lie with statistics
