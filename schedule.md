@@ -1,44 +1,48 @@
 # Schedule
 
-As of 7/1/20, KU fall schedule is posted as:
-
-- start on Aug 24
-- no Labor Day break
-- no Fall break
-- Thanksgiving break Wed Nov 25-Nov 29
-- study week after thanksgiving week
-- then Finals after that.
-
-So: That makes the fall calendar look like:
-
 ## GET STARTED
+
 ### WEEK 1 - Kickoff
 - TUE Aug 24
 - THU Aug 26
-intro, syllabus, format, online stuff. General Human-Centered Design, 'how to approach UX design', props to branham, design is design. elements of user experience JJG model and walkthru this slowly. 'usability' as concept just thrown around vs shown via what users do. Nielson/Norman group.
+intro, syllabus, format, online stuff. General Human-Centered Design, 'how to approach UX design', props to branham, design is design. elements of user experience JJG model. 'usability' as value judgement vs  just thrown around vs shown via what users do. Nielson/Norman group version of Usability.
+
+## UX Fundamental Concerns
 
 ### WEEK 2 - Meet Uncle Don
 - TUE Sep 1
 - THU Sep 3
-your notion notebook / process journal / etc. Don Norman in one lecture.
-You should have pet project selected by now.
-- Assignment: start your project notebook and fill out the 'my design project'
+Don Norman in one lecture. Mental Models, Mapping, Visbility, Discoverability, Affordances, Feedback.
+You should have pet project selected by now. Your notion notebook / process journal / etc.
+- Assignment: start your project notebook and fill out the 'my design project brief', share.
 
-
-## METHODS: LEARN / RESEARCH / LISTEN
-
-### WEEK 3 - Intro to research
+### WEEK 3 - How to design for people with bodies
 - TUE Sep 8
 - THU Sep 10
-Intro to research - why do designers research? what kinds of things qualify as research?  
-- Erika hall, just enough research.
-- get excited to be wrong
--
+Human Factors crash course (cog sci! ergonomics. et cetera.). Accessibility! People with bodies!
+After this week you're going to have a broad understanding of design *challenges* and design *tools* for those people made of meat that you want to use your stuff.
+    - physical thing: how big are handles? how long is a leg?
+    - graphic design: how fast do people read? from how far away? what about if they are also listening to a podcast at the same time?
+    - phone app: how big is a finger? when does an animation feel slow?
+    - interior architecture: how wide should a door be? how where's a light switch go? how do people move through an unfamiliar space?
+#### assignment: choose a flavor of human factors research; research and report findings in your playground notebook.
+#### assignment: accessibility / universal considerations for your project: what do you need to take into account?
 
-### WEEK 4 - Ethnographic Research Methods
+## Research
+
+### WEEK 4 - Context Research
 - TUE Sep 15
 - THU Sep 17
+"How to design for the problem space"
+#### assignment: method test & report
+
+#### Intro to design research
+Why do designers research? what kinds of things qualify as research?  
+- Erika hall, just enough research.
+- get excited to be wrong
+
 #### ethnographic research:
+Light touch overview of research models
     - desirepath/annotations etc (see how / where users try to fix or annotate things in real life) (UM 92)  
     - interest groups (find the subreddit, join a knitting circle)
     - contextual inquiry
@@ -54,6 +58,10 @@ Intro to research - why do designers research? what kinds of things qualify as r
     - 4.15 user groups definition (basically real-people-driven personas)
     - behavioral mapping (UM: '06')
 
+Reading: https://alistapart.com/article/interviewing-humans/
+
+#### assignment: method test & report
+
 ### WEEK 5 - Participatory Research Methods
 - TUE Sep 22
 - THU Sep 24
@@ -67,171 +75,97 @@ Intro to research - why do designers research? what kinds of things qualify as r
     - love letter / breakup letter (UM 54)
     - brainstorming / graphic organizers / mind maps / that kind of BS
     - graffiti walls (UM 45) (mk for cowards)
-    - swimlane diagrams (??)
+    - swimlane diagrams (of existing states!)
+#### assignment: method test & report
 
 ### WEEK 6 - Evaluative Research Methods
 - TUE Sep 29  
 - THU Oct 1
-#### evaluative research
-   - heuristic analysis
-   - task analysis (UM 84), related to Contextual inquiry
-   - mental model diagram (UM 55)  
-   - content analysis / inventory (????) probably not, this is a whole field
-   - brainstorming / graphic organizers / mind maps / that kind of BS
-   - mind mapping (UM 56)
-   - 2.7 Analogous Models
-   - 2.8 Competitors / Complementors
-   - benchmarking / competitive testing (UM: 15)
-   - critique
-   - system usability scale
+personas, user story, user flow, swimlane
+- heuristic analysis
+- task analysis (UM 84), related to Contextual inquiry
+- mental model diagram (UM 55)  
+- content analysis / inventory (????) probably not, this is a whole field
+- brainstorming / graphic organizers / mind maps / that kind of BS
+- mind mapping (UM 56)
+- 2.7 Analogous Models
+- 2.8 Competitors / Complementors
+- benchmarking / competitive testing (UM: 15)
+- critique
+- system usability scale
+- card sort,
+#### assignment: method test & report
 
+## MAKE IT AND TEST IT
 
-## MAKE
-### WEEK 7
+### WEEK 7 - Talking about it - define the vision
 - TUE Oct 6
 - THU Oct 8
-### WEEK 8
+5.4 Persona definition, user story, 4.17 user journey mapping (UM 95) / diagrams, swimlane diagrams (UM 72), moodboards, pitch deck / commercial / cover story / etc
+#### assignment: method test & report
+
+### WEEK 8 - making it: low-fi prototypes
 - TUE Oct 13  
 - THU Oct 15
+thumbnails, wireframe, storyboards, sketching, paper prototypes. cardboard mockups. design tiles. video scenario. sitemaps.
+#### assignment: method test & report: Two Methods!
 
-#### Talking about it - define the vision
-  - 5.4 Persona definition
-  - user story
-  - 4.17 user journey mapping (UM 95) / diagrams
-  - swimlane diagrams (UM 72)
-  - moodboard / brandboard
-  - pitch deck / commercial / cover story / etc
-
-### WEEK 9
+### WEEK 9 - Testing it: low-fi testing
 - TUE Oct 20  
 - THU Oct 22
-### WEEK 10
+guerrilla usability testing (task based, always!), wizard of oz prototypes, think aloud protocols, heuristic analysis
+#### assignment: method test & report. One Test Method!
+
+### WEEK 10 - Making it: higher-fi prototypes
 - TUE Oct 27  
 - THU Oct 29
+Visual mockups, interactive prototype, framer, motion grafx, video mockups, 3D renders etc.
+#### assignment: method test & report
 
-#### Making it
-  - storyboards
-  - thumbnail sketch
-  - wireframes  
-  - site map
-  - sketch prototype
-  - cardboard mockup / paper prototype
-  - internet prototype
-  - wizard of oz prototype
-  - participatory design (UM 61)
-  - video scenario
-  - video prototype
-  - design tiles
-  - generative design (ie, nervous system, Machine learning, etc?)
-  - mockups
-
-
-## TEST
-### WEEK 11
+### WEEK 11 - Testing it: higher-fi user testing
 - TUE Nov 3  
 - THU Nov 5
-### WEEK 12
+Formal usability testing, remote user testing, lab usability studies, post-study interviews, A/B tests
+#### assignment: method test & report
+
+### WEEK 12 - data-driven Methods vs user-reported
 - TUE Nov 10  
 - THU Nov 12
-
-#### Usability Testing - What users DO
-  - guerilla usability study (task based, always!)
-  - wizard of oz prototype
-  - formal usability studies
-    - think aloud protocol
-  - structured usability study
-  - remote user testing
-  - lab usability studies
-  - heuristic analysis
-  - post-study interviews
-
-
-### WEEK 13
-- TUE Nov 17  
-- THU Nov 19
-
-#### Data-Driven - What users HAVE DONE
-  - ab tests
-  - data driven usage / google analytics / (universal methods: '05 automated remote research'), wistia video heatmap, etc.  
-  - click tracking (viz as heatmap or pathways)
-  - eye-tracking (viz as heatmap or pathways) (UM 40)
-
-
-#### Talking about it - What users SAY
+#### What people SAY: talking about experiences
   - focus group
   - group critique
   - surveys (likert, etc)
-    - semantic differential (UM 75), etc
+  - semantic differential (UM 75), etc
+#### What people DO: data-driven methods
+  - a/b tests
+  - data driven usage / google analytics / (universal methods: '05 automated remote research'), wistia video heatmap, etc.  
+  - click tracking (viz as heatmap or pathways)
+  - eye-tracking (viz as heatmap or pathways) (UM 40)
+#### assignment: method test & report.
 
-### WEEK 14
+## BONUS ROUND
+
+### WEEK 13 - Bonus round: additional fun design methodologies
+- TUE Nov 17  
+- THU Nov 19
+Participatory Design. Generative Design. Machine Learning.
+#### assignment: ???
+
+### WEEK 14 - Wrap up
 - TUE Nov 24 -
-short week, last class. recap state of notion notebooks
+- THU Nov 26 (Thanksgiving break)
+short week, last class. Recap state of notion notebooks
 
-BONUS ROUND,
+### WEEK 15 - 'Study Week'
+- TUE DEC 1
+- THU DEC 3
+
+### WEEK 16 - Finals Week
+- Tue DEC 9
+
+-------------------
+
 BONUS ROUND, Design Ethics
   - victor papanek, design for the real world
   - E F Schumacher, small is beautiful
   - monteiro, ruined by design
-
-- THU Nov 26 - NO CLASS THANKSGIVING BREAK
-- TUE DEC 1 - 'study week'
-- THU DEC 3 - 'study week'
-- Tue DEC 9 - finals week
-
-MAKE
-
-
-
-2. interviews and personas
-3. user flows and competitive analysis
-4. Content, Card Sort, Sitemap
-5. Navigation, IxD principles, wireframing, sketching
-6. grids, responsive design, hierarchy
-7. Heuristics & User testing
-8. Branding & Visual Design
-9. Type on Screen
-10. Art Direction, Color, Accessibility
-
-# TAKE 4
-
-WEEKS:
-1. intro. Human-centered Design: basic idea that we need to listen to the people who use the stuff we make.
-  - assignment: start thinking about pet project.
-2. UX crash course. JJG and Don Norman.
-  - assignment: fill out project brief.
-3. Human Factors crash course (cog sci! ergonomics. et cetera.). Accessibility! Color. People with bodies!
-  "How to design for people with bodies"
-  After this week you're going to have a broad understanding of design *challenges* and design *tools* for those people made of meat that you want to use your stuff.
-    - physical thing: how big are handles? how long is a leg?
-    - graphic design: how fast do people read? from how far away? when they are doing stuff?
-    - phone app:
-    - interior architecture: how wide should a door be? how where's a light switch go? how do people move through an unfamiliar space?
-  - assignment: fill out
-4. context Research
-  "How to design for the problem space"
-  - assignment: method test & report
-5. ethnography research, interviews
-  - reading: https://alistapart.com/article/interviewing-humans/
-  - assignment: method test & report
-6. personas, user story, user flow, swimlane
-  - assignment: method test & report
-
-7. content, card sort, sitemap, pitch deck
-  - assignment: method test & report
-
-8. wireframe, thumbnail, sketching, paperprototypes.
-- assignment: method test & report
-
-9. guerilla usability, wizard of oz, user testing,
-- assignment: method test & report
-
-10. refined prototype, refined user testing. lab testing. (video mockup, visual mockups, interactive prototype, etc)
-- assignment: method test & report
-
-11. iterate!
-- assignment: method test & report
-
-12. data-driven Methods
-- assignment: method test & report
-
-14. last class, review.
