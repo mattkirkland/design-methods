@@ -139,4 +139,10 @@ Maybe the time class breakdown is more like:
   30min talk about how to apply methods
   15min questions
 
+### 8/7/20
+
+These are cute: https://lawsofux.com/
+Hopefully (hopefully????) they'll all know the gestalt stuff but I could really add Fitt's law, Hick's law, etc.
+
+
   
