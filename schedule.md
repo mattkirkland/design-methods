@@ -6,7 +6,7 @@
 - TUE Aug 24
 - THU Aug 26
 
-intro, syllabus, format, online stuff. General Human-Centered Design, 'how to approach UX design', elements of user experience JJG model. 'usability' as value judgement vs  just thrown around vs shown via what users do. Nielson/Norman group version of Usability.
+Intro, syllabus, format, online stuff. General Human-Centered Design, 'how to approach UX design', elements of user experience JJG model. 'usability' as value judgement vs  just thrown around vs shown via what users do. Nielson/Norman group version of Usability.
 
 ## UX Fundamental Concerns
 
@@ -14,7 +14,7 @@ intro, syllabus, format, online stuff. General Human-Centered Design, 'how to ap
 - TUE Sep 1
 - THU Sep 3
 
-Don Norman in one lecture. Mental Models, Mapping, Visbility, Discoverability, Affordances, Feedback.
+Don Norman in one week. Mental Models, Mapping, Visbility, Discoverability, Affordances, Feedback.
 You should have pet project selected by now. Your notion notebook / process journal / etc.
 
 #### Assignment
@@ -26,13 +26,15 @@ You should have pet project selected by now. Your notion notebook / process jour
 
 Human Factors crash course (cog sci! ergonomics. et cetera.). Accessibility! People with bodies!
 After this week you're going to have a broad understanding of design *challenges* and design *tools* for those people made of meat that you want to use your stuff.
+
     - physical thing: how big are handles? how long is a leg?
     - graphic design: how fast do people read? from how far away? what about if they are also listening to a podcast at the same time?
     - phone app: how big is a finger? when does an animation feel slow?
     - interior architecture: how wide should a door be? how where's a light switch go? how do people move through an unfamiliar space?
-#### assignment
+
+#### Assignment
 - choose a flavor of human factors research; research and report findings in your playground notebook.
-- AND accessibility / universal considerations for your project: what do you need to take into account?
+- AND notes on accessibility / universal considerations for your project: what do you need to take into account?
 
 ## Research
 
@@ -60,7 +62,7 @@ Find out what your users do now! Light touch overview of research models.
 
 Reading: https://alistapart.com/article/interviewing-humans/
 
-#### assignment
+#### Assignment
 - choose a flavor of ethnographic research; do it and report findings in your playground notebook.
 
 *MK: too much for a single week?*
@@ -82,7 +84,7 @@ Participatory Research MethodsWork with your users and get their active engageme
 - graffiti walls (UM 45) (mk for cowards)
 - swimlane diagrams (of existing states!)
 
-#### assignment
+#### Assignment
 - choose a flavor of Participatory research; do it and report findings in your playground notebook.
 
 *MK: also too much for a single week?*
@@ -106,7 +108,7 @@ personas, user story, user flow, swimlane
 - system usability scale
 - card sorts.
 
-#### assignment
+#### Assignment
 - choose a flavor of Evaluative research; do it and report findings in your playground notebook.
 
 *MK: aaaaalso too much for a single week?*
@@ -119,7 +121,7 @@ personas, user story, user flow, swimlane
 
 Persona definition (5.4), user story, 4.17 user journey mapping (UM 95) / diagrams, swimlane diagrams (UM 72), moodboards, pitch deck / commercial / cover story / etc
 
-#### assignment
+#### Assignment
 - choose a flavor of Evaluative research; do it and report findings in your playground notebook.
 
 ### WEEK 8 - making it: low-fi prototypes
@@ -128,7 +130,7 @@ Persona definition (5.4), user story, 4.17 user journey mapping (UM 95) / diagra
 
 thumbnails, wireframe, storyboards, sketching, paper prototypes. cardboard mockups. design tiles. video scenario. sitemaps.
 
-#### assignment
+#### Assignment
 - choose a flavor of Evaluative research; do it and report findings in your playground notebook.
 
 
@@ -138,7 +140,7 @@ thumbnails, wireframe, storyboards, sketching, paper prototypes. cardboard mocku
 
 guerrilla usability testing (task based, always!), wizard of oz prototypes, think aloud protocols, heuristic analysis
 
-#### assignment
+#### Assignment
 - choose a flavor of Evaluative research; do it and report findings in your playground notebook.
 
 ### WEEK 10 - Making it: higher-fi prototypes
@@ -147,8 +149,8 @@ guerrilla usability testing (task based, always!), wizard of oz prototypes, thin
 
 Visual mockups, interactive prototype, framer, motion grafx, video mockups, 3D renders etc.
 
-#### assignment
-- choose a flavor of Evaluative research; do it and report findings in your playground notebook.
+#### Assignment
+- choose a flavor of higher-fidelity mockups that you haven't done before. Try it and report findings in your playground notebook.
 
 ### WEEK 11 - Testing it: higher-fi user testing
 - TUE Nov 3  
@@ -156,7 +158,7 @@ Visual mockups, interactive prototype, framer, motion grafx, video mockups, 3D r
 
 Formal usability testing, remote user testing, lab usability studies, post-study interviews, A/B tests
 
-#### assignment
+#### Assignment
 - choose a flavor of Evaluative research; do it and report findings in your playground notebook.
 
 ### WEEK 12 - data-driven Methods vs user-reported behavior
@@ -175,8 +177,8 @@ Formal usability testing, remote user testing, lab usability studies, post-study
   - click tracking (viz as heatmap or pathways)
   - eye-tracking (viz as heatmap or pathways) (UM 40)
   - idea of 'local maximum'
-  
-#### assignment
+
+#### Assignment
 - choose a flavor of research; do it and report findings in your playground notebook.
 
 ## BONUS ROUND
@@ -187,7 +189,7 @@ Formal usability testing, remote user testing, lab usability studies, post-study
 
 Participatory Design. Generative Design. Machine Learning. Etc.
 
-#### assignment: ???
+#### Assignment: ???
 
 ### WEEK 14 - Wrap up
 - TUE Nov 24 -
@@ -204,8 +206,9 @@ short week, last class. Recap state of notion notebooks
 
 -------------------
 
-BONUS ROUND, Design Ethics, would be nice to shoehorn in somewhere
+BONUS ROUNDS
+It would be fun to shoehorn in a little UX Design Ethics
   - Papanek, design for the real world
   - Schumacher, small is beautiful
   - Monteiro, ruined by design
-  - etc
+  - Dark Patterns intro 
