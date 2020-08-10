@@ -3,8 +3,8 @@
 ## GET STARTED
 
 ### WEEK 1 - Kickoff
-- TUE Aug 24
-- THU Aug 26
+- TUE Aug 25
+- THU Aug 27
 
 Intro, syllabus, format, online stuff. General Human-Centered Design, 'how to approach UX design', elements of user experience JJG model. 'usability' as value judgement vs  just thrown around vs shown via what users do. Nielson/Norman group version of Usability.
 
@@ -211,4 +211,4 @@ It would be fun to shoehorn in a little UX Design Ethics
   - Papanek, design for the real world
   - Schumacher, small is beautiful
   - Monteiro, ruined by design
-  - Dark Patterns intro 
+  - Dark Patterns intro
