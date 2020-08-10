@@ -22,6 +22,10 @@ When this course is complete, you'll have a new toolbox of ways to approach a de
 
 Each week we'll tackle a content area covering the basics of UX and design methods. Each week you'll get a little practice using some of those methods.
 
+## Schedule
+
+We meet Tuesdays and Thursdays, at 4pm via Zoom. See the full ** Schedule link ** for details.
+
 ## Your Notebook
 
 You're going to keep a digital notebook as you test out these design methods. You'll choose a pet project to work on throughout the semester, and each week you'll record findings about the methods you try out. You'll write briefly about what you learned and document the process. <a href="notebook.md">See more about your Notebook and what we'll do there here.</a>
