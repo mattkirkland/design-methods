@@ -27,10 +27,10 @@ You should have pet project selected by now. Your notion notebook / process jour
 Human Factors crash course (cog sci! ergonomics. et cetera.). Accessibility! People with bodies!
 After this week you're going to have a broad understanding of design *challenges* and design *tools* for those people made of meat that you want to use your stuff.
 
-    - physical thing: how big are handles? how long is a leg?
-    - graphic design: how fast do people read? from how far away? what about if they are also listening to a podcast at the same time?
-    - phone app: how big is a finger? when does an animation feel slow?
-    - interior architecture: how wide should a door be? how where's a light switch go? how do people move through an unfamiliar space?
+- physical thing: how big are handles? how long is a leg?
+- graphic design: how fast do people read? from how far away? what about if they are also listening to a podcast at the same time?
+- phone app: how big is a finger? when does an animation feel slow?
+- interior architecture: how wide should a door be? how where's a light switch go? how do people move through an unfamiliar space?
 
 #### Assignment
 - choose a flavor of human factors research; research and report findings in your playground notebook.
