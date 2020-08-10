@@ -1,5 +1,5 @@
 # design-methods
-Seminar course on design methods.  
+Seminar course on design methods.  Pitched by 🐚 🎺 in mid-spring 2020. 
 
 This course is an overview of design methods; it's targeted to be primarily lecture and demonstration. We will survey the landscape of design methodologies to apply to your design projects. That sounds kind of formal, but really this is an introduction to a bag of tools you can use when you're tackling any kind of design project.
 
