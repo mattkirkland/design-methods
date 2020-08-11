@@ -50,11 +50,11 @@ A few weeks will have specific prompts to fill out when we cover special topics.
 
 ## Getting Started
 
-Start your Notebook by clicking here to see the Example Notebook.  You can click the 'duplicate' option to clone that example and use it.
+Start your Notebook by <a href="https://www.notion.so/WEEK-1-Getting-Started-be68f94a1707445b80e2b117041754b0">clicking here to see the Example Notebook</a>.  You can click the 'duplicate' option to clone that example and use it.
 
 - Fill out the first page and customize it
 - Find the sharing settings for your notebook and make sure it's public
-- Fill out this form to tell us the URL of your notebook. 
+- <a href="https://forms.gle/ZXSWPTZjKbbs8bEF9">Fill out this form to tell us the URL of your notebook.</a> 
 - When you're ready, fill out the About My Project page
 
 ## Grading
