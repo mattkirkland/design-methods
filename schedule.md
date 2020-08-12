@@ -89,11 +89,11 @@ Participatory Research MethodsWork with your users and get their active engageme
 
 *MK: also too much for a single week?*
 
-### WEEK 6 - Evaluative Research Methods
+### WEEK 6 - "How do I make sense of we saw from users?"
 - TUE Sep 29  
 - THU Oct 1
 
-personas, user story, user flow, swimlane
+Evaluative Research Methods: personas, user story, user flow, swimlane
 
 - heuristic analysis
 - task analysis (UM 84), related to Contextual inquiry
@@ -115,16 +115,17 @@ personas, user story, user flow, swimlane
 
 ## MAKE IT AND TEST IT
 
-### WEEK 7 - Talking about it - define the vision
+### WEEK 7 - "How do we define the vision for a new design?"
 - TUE Oct 6
 - THU Oct 8
 
+Talking about it - define the vision.
 Persona definition (5.4), user story, 4.17 user journey mapping (UM 95) / diagrams, swimlane diagrams (UM 72), moodboards, pitch deck / commercial / cover story / etc
 
 #### Assignment
 - choose a flavor of Evaluative research; do it and report findings in your playground notebook.
 
-### WEEK 8 - making it: low-fi prototypes
+### WEEK 8 - "Let's make something" : low-fi prototypes
 - TUE Oct 13  
 - THU Oct 15
 
@@ -134,7 +135,7 @@ thumbnails, wireframe, storyboards, sketching, paper prototypes. cardboard mocku
 - choose a flavor of Evaluative research; do it and report findings in your playground notebook.
 
 
-### WEEK 9 - Testing it: low-fi testing
+### WEEK 9 - "Does it work?" Testing it: low-fi testing
 - TUE Oct 20  
 - THU Oct 22
 
@@ -143,7 +144,7 @@ guerrilla usability testing (task based, always!), wizard of oz prototypes, thin
 #### Assignment
 - choose a flavor of Evaluative research; do it and report findings in your playground notebook.
 
-### WEEK 10 - Making it: higher-fi prototypes
+### WEEK 10 - "Let's make it better!" Making it: higher-fi prototypes
 - TUE Oct 27  
 - THU Oct 29
 
@@ -152,7 +153,7 @@ Visual mockups, interactive prototype, framer, motion grafx, video mockups, 3D r
 #### Assignment
 - choose a flavor of higher-fidelity mockups that you haven't done before. Try it and report findings in your playground notebook.
 
-### WEEK 11 - Testing it: higher-fi user testing
+### WEEK 11 - "Does it work better?" Testing it: higher-fi user testing
 - TUE Nov 3  
 - THU Nov 5
 
@@ -161,7 +162,7 @@ Formal usability testing, remote user testing, lab usability studies, post-study
 #### Assignment
 - choose a flavor of Evaluative research; do it and report findings in your playground notebook.
 
-### WEEK 12 - data-driven Methods vs user-reported behavior
+### WEEK 12 - "What if I want to deal with numbers?" data-driven Methods vs user-reported behavior
 - TUE Nov 10  
 - THU Nov 12
 
