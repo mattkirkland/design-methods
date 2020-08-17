@@ -1,0 +1,8 @@
+I just found a solution to my problem. The atom window was rendered outside any screen coordinates. I did the following steps to solve it:
+
+Alt + Tab to choose the atom window
+Alt + Space to open the context menu
+Press 'm' to select move
+Press any arrow key once
+Move your mouse (The misplaced window will follow your cursor.)
+Open a new file or project and close it again to save the new window state.
