@@ -5,13 +5,13 @@
 
 /*  COLORS */
 
-.primary {background: #151515; }
-.secondary {background: #ededed;}
+.primary {background: #4a4a4a4a; }
+.secondary {background: #fff;}
 .tertiary {background: #6c6c6c;}
 .quaternary {background: #ababab;}
 
-.btn-default {background: transparent; border: 1px solid #ec008c; color: #ec008c }
-.btn-default:hover {background: #ec008c; color: #fff;}
+.btn-default {background: transparent; border: 1px solid #2eb1e6; color: #2eb1e6 }
+.btn-default:hover {background: #2eb1e6; color: #fff;}
 
 .btn-primary {background: #151515; border: 1px solid  #666;}
 .btn-primary:hover {background: #333; border: 1px solid  #666;}
@@ -19,13 +19,15 @@
 
 
 body {
-  color: #5a5a5a;
+  color: #3a3a3a;
 }
 
-a {color: #ec008c}
+.text-muted {color: #3a3a3a;}
+
+a {color: #2eb1e6}
 
 a:hover, a:active, a:focus {
- color: #ec008c;
+ color: #3eb1e6;
  }
 
 /* FONTS */
@@ -37,8 +39,8 @@ body {
 .btn {font-family: 'Rubik', sans-serif;}
 
 h1, h2, h3, h4 {
-  font-family: 'Eczar', serif;
-  font-weight: 700;
+  font-family: 'Viga', serif;
+
 }
 
 h3 {margin-top: 1.4em;}
@@ -51,7 +53,9 @@ ul {
   list-style-type: circle;
 }
 
-
+li::marker {
+  color: #29b2de;
+}
 
 ol{
 	counter-reset: counter;
@@ -61,7 +65,7 @@ ol li:before {
 	content: counter(counter);
 	counter-increment: counter;
   list-style-type: decimal-leading-zero;
-  color: #ec008c;
+  color: #29b2de;
   margin-left: -1em;
   margin-right: .7rem;
   font-size: .8em;
@@ -73,13 +77,21 @@ blockquote em {font-weight: 700;}
 
 /* TABLE WEEK */
 .table .week {
-  color: #ec008c;
+  color: #29b2de;
 }
 
 
-
+ .list-group-item {
+   color: #fff;
+ }
  .list-group-item.active,
  .list-group-item:hover {
-   border-left: 5px solid #ec008c;
-   color: #ec008c;
+   border-left: 5px solid #fff;
+   color: #fff;
  }
+
+.sidebar {
+  background: -webkit-linear-gradient(-120deg, #29b2de, #05b2a6);
+  background: linear-gradient(-120deg, #29b2de, #05b2a6); }
+}
+.nav-link {font-weight: normal;}

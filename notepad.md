@@ -144,5 +144,12 @@ Maybe the time class breakdown is more like:
 These are cute: https://lawsofux.com/
 Hopefully (hopefully????) they'll all know the gestalt stuff but I could really add Fitt's law, Hick's law, etc.
 
+### 8/17/20
 
-  
+Cloned in the class website structure I used before. Filling in some content. Got some things to fill in.
+
+TODO:
+
+- make / fill in notebook.html
+- make / fill in course schedule week-by-week
+- gather links / resources for each
