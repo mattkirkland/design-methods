@@ -95,3 +95,11 @@ blockquote em {font-weight: 700;}
   background: linear-gradient(-120deg, #29b2de, #05b2a6); }
 }
 .nav-link {font-weight: normal;}
+
+.sidebar .nav-item a {
+  line-height: 1.1;
+  font-family: "Viga", sans-serif;
+  font-size: 1.2em;
+}
+
+.details {border-left: none;}
