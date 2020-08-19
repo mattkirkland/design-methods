@@ -153,3 +153,17 @@ TODO:
 - make / fill in notebook.html
 - make / fill in course schedule week-by-week
 - gather links / resources for each
+
+### 8/19/20
+
+Saw an essay that recommended using part of class times to have small group sessions w the professor - 5 people plus you, etc. Maybe that can be added to the overall time?  I think I could adapt that. We've got 12+ weeks so I could have everybody twice if I cycled thru and did it twice / week? Or at least cover everybody once if I stretched it out. But then some people wouldn't get scheduled til the end of the semester, which seems unfair?
+
+- TUE:
+  30min review from last week (call out notion examples, etc)
+  30min lecture on new topic
+  15min small group w Matt? (everybody does this once)
+- THU:
+  15min recap on new topic (honestly could just recap the slides but FASTER)
+  15min point to online resources
+  30min talk about how to apply methods
+  15min questions
