@@ -54,7 +54,7 @@ Start your Notebook by <a href="https://www.notion.so/WEEK-1-Getting-Started-be6
 
 - Fill out the first page and customize it
 - Find the sharing settings for your notebook and make sure it's public
-- <a href="https://forms.gle/ZXSWPTZjKbbs8bEF9">Fill out this form to tell us the URL of your notebook.</a> 
+- <a href="https://forms.gle/ZXSWPTZjKbbs8bEF9">Fill out this form to tell us the URL of your notebook.</a>
 - When you're ready, fill out the About My Project page
 
 ## Grading

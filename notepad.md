@@ -171,3 +171,10 @@ Saw an essay that recommended using part of class times to have small group sess
 ### 8/23/20
 
 I sent a survey out to students and told them we'd only meet over zoom. so far 40 of 55 have replied!
+
+### 8/24/20
+
+Adjusting week 1 lecture slide set. Need to:
+
+- add press
+X - add class timing.
