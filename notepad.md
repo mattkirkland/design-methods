@@ -167,3 +167,7 @@ Saw an essay that recommended using part of class times to have small group sess
   15min point to online resources
   30min talk about how to apply methods
   15min questions
+
+### 8/23/20
+
+I sent a survey out to students and told them we'd only meet over zoom. so far 40 of 55 have replied!
