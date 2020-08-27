@@ -176,5 +176,13 @@ I sent a survey out to students and told them we'd only meet over zoom. so far 4
 
 Adjusting week 1 lecture slide set. Need to:
 
-- add press
+X- add press
 X - add class timing.
+
+### 8/27/20
+
+There's a bunch of summary stuff that will be good pointers to for 'further reading' section here:
+
+for Don 
+https://www.nngroup.com/articles/ux-research-cheat-sheet/
+https://www.nngroup.com/videos/ux-research-cheat-sheet/?lm=which-ux-research-methods&pt=article
