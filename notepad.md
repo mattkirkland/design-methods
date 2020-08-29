@@ -183,6 +183,10 @@ X - add class timing.
 
 There's a bunch of summary stuff that will be good pointers to for 'further reading' section here:
 
-for Don 
+for Don
 https://www.nngroup.com/articles/ux-research-cheat-sheet/
 https://www.nngroup.com/videos/ux-research-cheat-sheet/?lm=which-ux-research-methods&pt=article
+
+### 8/29/20
+
+I'm pulling the Gestalt stuff out of my intro-to-UX lecture, we'll see if they know that stuff as we go. I guess!
