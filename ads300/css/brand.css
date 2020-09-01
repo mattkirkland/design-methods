@@ -65,7 +65,7 @@ ol li:before {
 	content: counter(counter);
 	counter-increment: counter;
   list-style-type: decimal-leading-zero;
-  color: #29b2de;
+  color: #333;
   margin-left: -1em;
   margin-right: .7rem;
   font-size: .8em;
@@ -77,7 +77,7 @@ blockquote em {font-weight: 700;}
 
 /* TABLE WEEK */
 .table .week {
-  color: #29b2de;
+  color: #333;
 }
 
 
