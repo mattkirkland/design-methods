@@ -190,3 +190,10 @@ https://www.nngroup.com/videos/ux-research-cheat-sheet/?lm=which-ux-research-met
 ### 8/29/20
 
 I'm pulling the Gestalt stuff out of my intro-to-UX lecture, we'll see if they know that stuff as we go. I guess!  Added some notes about some Normany stuff, check my sketchbook for details.
+
+### 9/2/20
+
+Setting up week 3: people with bodies. Basic intro to cogsci and human factors.
+Human Factors: brains and bodies. Brains are part of bodies. Earliest study is about ergonomics. Physical measurements. Military body measurements. Cockpit design. Exclusion based on deviation from the norm. There is no average man. Psychological measurements equivalent to ergonomics: reaction times. working memory. reading speeds. Fatigue. Distraction. Accessibility. ADA. Abled-ness as temporal blip. Universal design. Benefits for all.
+
+Need to find: sarah hendren talk. intro to ergonomics link. intro to cogsci link.
