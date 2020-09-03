@@ -197,3 +197,5 @@ Setting up week 3: people with bodies. Basic intro to cogsci and human factors.
 Human Factors: brains and bodies. Brains are part of bodies. Earliest study is about ergonomics. Physical measurements. Military body measurements. Cockpit design. Exclusion based on deviation from the norm. There is no average man. Psychological measurements equivalent to ergonomics: reaction times. working memory. reading speeds. Fatigue. Distraction. Accessibility. ADA. Abled-ness as temporal blip. Universal design. Benefits for all.
 
 Need to find: sarah hendren talk. intro to ergonomics link. intro to cogsci link.
+
+Also started basics of week 4. Find Erika Hall links.
