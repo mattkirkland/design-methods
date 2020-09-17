@@ -199,3 +199,13 @@ Human Factors: brains and bodies. Brains are part of bodies. Earliest study is a
 Need to find: sarah hendren talk. intro to ergonomics link. intro to cogsci link.
 
 Also started basics of week 4. Find Erika Hall links.
+
+### 9/15/20
+
+Finished up week 4 prez, and this is just a note to mine the '006 intro to testing' keynote for stuff when we get to more interactive user testing.
+
+### 9/17/20
+
+Today: recap on why do research. ethnographic options.
+THEN: review of online options.
+THEN: how to apply methods! just pull from examples people have. 
