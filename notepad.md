@@ -208,4 +208,8 @@ Finished up week 4 prez, and this is just a note to mine the '006 intro to testi
 
 Today: recap on why do research. ethnographic options.
 THEN: review of online options.
-THEN: how to apply methods! just pull from examples people have. 
+THEN: how to apply methods! just pull from examples people have.
+
+### 9/21/20
+
+Setting up week 5, participatory design research methods
