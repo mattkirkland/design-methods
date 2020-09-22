@@ -213,3 +213,10 @@ THEN: how to apply methods! just pull from examples people have.
 ### 9/21/20
 
 Setting up week 5, participatory design research methods
+
+### 9/22/20
+
+I should really set up a list of 'you can't do this because it's harder than you think and also matt is bored of seeing student attempts', including:
+- recipe app
+- drink specials
+- music/movie finders
