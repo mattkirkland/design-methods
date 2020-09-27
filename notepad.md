@@ -220,3 +220,11 @@ I should really set up a list of 'you can't do this because it's harder than you
 - recipe app
 - drink specials
 - music/movie finders
+
+### 9/24/20
+
+Tim Hossler is teaching a design ethics course next semester! Recommend that students take it.
+
+### 9/27/20
+
+Week 6 start.
