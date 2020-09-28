@@ -228,3 +228,7 @@ Tim Hossler is teaching a design ethics course next semester! Recommend that stu
 ### 9/27/20
 
 Week 6 start.
+
+### 9/28/20
+
+Forgot my book, working on week 6 prez.
