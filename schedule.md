@@ -123,7 +123,7 @@ Talking about it - define the vision.
 Persona definition (5.4), user story, 4.17 user journey mapping (UM 95) / diagrams, swimlane diagrams (UM 72), moodboards, pitch deck / commercial / cover story / etc
 
 #### Assignment
-- choose a flavor of Evaluative research; do it and report findings in your playground notebook.
+- choose a method; do it and report findings in your playground notebook.
 
 ### WEEK 8 - "Let's make something" : low-fi prototypes
 - TUE Oct 13  
