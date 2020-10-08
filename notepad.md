@@ -232,3 +232,7 @@ Week 6 start.
 ### 9/28/20
 
 Forgot my book, working on week 6 prez.
+
+### 10/8/20
+
+Just came across the metaphor I wanted here all along for this semester: I want this course to be an introduction to the orchestra, with chances for you to pick up the instruments and make some noise with each one. To see what it sounds like, what it's good for.
