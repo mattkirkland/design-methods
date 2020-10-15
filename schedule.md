@@ -132,7 +132,7 @@ Persona definition (5.4), user story, 4.17 user journey mapping (UM 95) / diagra
 thumbnails, wireframe, storyboards, sketching, paper prototypes. cardboard mockups. design tiles. video scenario. sitemaps.
 
 #### Assignment
-- choose a flavor of Evaluative research; do it and report findings in your playground notebook.
+- choose a flavor of ideation ; do it and report findings in your playground notebook.
 
 
 ### WEEK 9 - "Does it work?" Testing it: low-fi testing
