@@ -40,7 +40,7 @@ Your grade will be 80% Notebook completion, 20% Final Exam.
 
 ## Deadlines
 
-Your assignments are **always due at 8:00am on Monday mornings**. You'll turn in your assignments by having them in your Notebook online.
+Your assignments are **always due at 8:00am on Tuesday mornings**. You'll turn in your assignments by having them in your Notebook online.
 
 ## Office Hours
 
