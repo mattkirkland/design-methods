@@ -157,10 +157,10 @@ Visual mockups, interactive prototype, framer, motion grafx, video mockups, 3D r
 - TUE Nov 3  
 - THU Nov 5
 
-Formal usability testing, remote user testing, lab usability studies, post-study interviews, A/B tests
+A higher-resolution usability means testing in something more-like-real life. Your test users are closer to actual users, your environment is closer to the actual environment, your prototype is closer to the real thing.  You can also be more statistically rigorous!
 
 #### Assignment
-- choose a flavor of Evaluative research; do it and report findings in your playground notebook.
+- choose a method; do it and report findings in your playground notebook.
 
 ### WEEK 12 - "What if I want to deal with numbers?" data-driven Methods vs user-reported behavior
 - TUE Nov 10  
