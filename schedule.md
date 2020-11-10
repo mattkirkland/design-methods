@@ -193,7 +193,7 @@ Participatory Design. Generative Design. Machine Learning. Etc.
 #### Assignment: ???
 
 ### WEEK 14 - Wrap up
-- TUE Nov 24 -
+- TUE Nov 24 - Review Presentation!
 - THU Nov 26 (Thanksgiving break)
 
 short week, last class. Recap state of notion notebooks
