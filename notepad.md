@@ -236,3 +236,26 @@ Forgot my book, working on week 6 prez.
 ### 10/8/20
 
 Just came across the metaphor I wanted here all along for this semester: I want this course to be an introduction to the orchestra, with chances for you to pick up the instruments and make some noise with each one. To see what it sounds like, what it's good for.
+
+### 10/02/21
+
+It's been a year since this course and Jeremy asked me to do it again in the spring.  SO what worked? What didn't? What changes should I make to do this IRL rather than Zoom?  
+
+Maybe: some more demo? Flesh out the lectures and slide decks more?
+IDK if the Matt Chat things worked, probably those happen naturally as people can stay.
+
+And: how to take the 'try out the orchestra instruments' part without letting them freak out about making a good project?  Maybe I should just have the Britten thing playing for the first ten minutes: https://www.youtube.com/watch?v=0HYwSftiz-M  It's not a bad version and the performers are youth at least.
+
+I guess it's more of an 'instrument petting zoo' combined with this I guess. But still.  
+
+Maybe there should be a reading with a handed-out quiz to just verify that they read it. Some kind of basic reading check.
+
+Then the 'did you do a good job over the weekend' is a pretty ... low bar.
+
+The 'pick your own pet project' part was actually a very mixed success, I think I should assign a set of possible projects. I don't even care.
+
+Maybe I should just assign some pet ideas of mine that will have the correct shape:
+- book atlas
+- what are they building there?
+- climate change home inspection app
+- carbon sequestration thing? like a directory of choices or a compare-contrast
