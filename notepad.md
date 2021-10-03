@@ -255,6 +255,7 @@ Then the 'did you do a good job over the weekend' is a pretty ... low bar.
 The 'pick your own pet project' part was actually a very mixed success, I think I should assign a set of possible projects. I don't even care.
 
 Maybe I should just assign some pet ideas of mine that will have the correct shape:
+
 - book atlas
 - what are they building there?
 - climate change home inspection app
