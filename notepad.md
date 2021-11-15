@@ -260,3 +260,45 @@ Maybe I should just assign some pet ideas of mine that will have the correct sha
 - what are they building there?
 - climate change home inspection app
 - carbon sequestration thing? like a directory of choices or a compare-contrast
+
+### 11/15/21
+
+Dumping EK's course outline here for reference. It's very digital-product focused and I want to be more extensible. But adding here so I can cross-walk my plan. 
+
+I. INTRODUCTION
+  1.1 Begin Here
+  1.2 Why Good UX Doesn’t “Just Happen"
+  1.3 Overview of the UX Design Process
+  1.4 Intro to Sketch
+  1.5 Setting Up Your Workspace for Rapid Wireframing
+  1.6 Building a UX Reference Library
+
+II. THE FUNDAMENTALS OF INTERACTION DESIGN
+  2.1 The Best Interaction
+  2.2 Show What's Actionable
+  2.3 Think Like a User, Not Like a Database
+  2.4 Jakob’s Law
+  2.5 Obvious Always Wins
+  2.6 The 3 Laws of Locality
+  2.7 Mind your Nouns
+  2.8 What Would a Polite Person Do?
+III. DESIGN PATTERNS & BEST PRACTICES
+  3.1 Introduction
+  3.2 Navigation and Menus
+  3.3 Text Input Controls
+  3.4 Selection Controls
+  3.5 Errors
+  3.6 Search & Filter
+  3.7 Browsing & Content Recommendation
+  3.8 Lists & Tables
+  3.9 Responsive Design
+  3.10 Accessibility
+IV. USER RESEARCH & TESTING
+  4.1 The Fundamental Dichotomy of Talking to Users
+  4.2 User Research: Interviewing
+  4.3 Digital Prototyping
+  4.4 Usability Testing
+V. COMMUNICATING DESIGN
+  5.1 Creating a UX Portfolio
+  5.2 Selling UX to Clients and Teams
+  5.3 Presenting Your Designs & Getting Good Feedback
