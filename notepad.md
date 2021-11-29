@@ -263,7 +263,7 @@ Maybe I should just assign some pet ideas of mine that will have the correct sha
 
 ### 11/15/21
 
-Dumping EK's course outline here for reference. It's very digital-product focused and I want to be more extensible. But adding here so I can cross-walk my plan. 
+Dumping EK's course outline here for reference. It's very digital-product focused and I want to be more extensible. But adding here so I can cross-walk my plan.
 
 I. INTRODUCTION
   1.1 Begin Here
@@ -302,3 +302,23 @@ V. COMMUNICATING DESIGN
   5.1 Creating a UX Portfolio
   5.2 Selling UX to Clients and Teams
   5.3 Presenting Your Designs & Getting Good Feedback
+
+### 11/29/21
+
+A few notes from Thanksgiving weekend driving:
+
+- Tuesday is a recap of previous week's test-drives, Then a lecture with an assigned reading
+- Thursday is a quiz about the reading, and then talking thru how to practice one of the methods on a pet projects
+
+Google forms can be quizzes with assigned scoring. Quiz is a basic 'did you read this' check, not trying to push for a complex understanding.
+
+Q: how to make 'did you test drive a method?' checkable automatically? Tyranny of low expectations and so on.
+
+Project categories:
+- book club app (what does a book club need to enrich its IRL meetings? scheduling? Progress reports? note-taking? sharing? recomendations?)
+- car detailing app (book a mobile car detailing service. Also provide field inspection / checklist / sales / checkout process for field agents)
+- thrift store... what?
+- decarbonization guide / tool (educate and help me decarbonize my life)
+- young person EOL toolkit (GYST basically) Talk to old people and figure out what needs to happen, then make it intelligible for young people.
+
+You choose: books / clothes / cars / climate / death
