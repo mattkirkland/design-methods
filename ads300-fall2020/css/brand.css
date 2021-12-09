@@ -1,0 +1,105 @@
+/*
+ * This stylesheet contains elements customized for the new brand.
+ * --------------------------------------------------
+ */
+
+/*  COLORS */
+
+.primary {background: #4a4a4a4a; }
+.secondary {background: #fff;}
+.tertiary {background: #6c6c6c;}
+.quaternary {background: #ababab;}
+
+.btn-default {background: transparent; border: 1px solid #2eb1e6; color: #2eb1e6 }
+.btn-default:hover {background: #2eb1e6; color: #fff;}
+
+.btn-primary {background: #151515; border: 1px solid  #666;}
+.btn-primary:hover {background: #333; border: 1px solid  #666;}
+
+
+
+body {
+  color: #3a3a3a;
+}
+
+.text-muted {color: #3a3a3a;}
+
+a {color: #2eb1e6}
+
+a:hover, a:active, a:focus {
+ color: #3eb1e6;
+ }
+
+/* FONTS */
+body {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+}
+
+.btn {font-family: 'Rubik', sans-serif;}
+
+h1, h2, h3, h4 {
+  font-family: 'Viga', serif;
+
+}
+
+h3 {margin-top: 1.4em;}
+h4 {margin-top: 1.4em;}
+
+h3.brand {width: 80%; margin-left: 10%;}
+/* LISTS */
+
+ul {
+  list-style-type: circle;
+}
+
+li::marker {
+  color: #29b2de;
+}
+
+ol{
+	counter-reset: counter;
+  list-style-type: none;
+}
+ol li:before {
+	content: counter(counter);
+	counter-increment: counter;
+  list-style-type: decimal-leading-zero;
+  color: #333;
+  margin-left: -1em;
+  margin-right: .7rem;
+  font-size: .8em;
+}
+
+blockquote {border-left: 10px solid #ededed; padding-left: 20px; font-style:italic;}
+blockquote em {font-weight: 700;}
+
+
+/* TABLE WEEK */
+.table .week {
+  color: #333;
+}
+
+
+ .list-group-item {
+   color: #fff;
+ }
+ .list-group-item.active,
+ .list-group-item:hover {
+   border-left: 5px solid #fff;
+   color: #fff;
+ }
+
+.sidebar {
+  background: -webkit-linear-gradient(-120deg, #29b2de, #05b2a6);
+  background: linear-gradient(-120deg, #29b2de, #05b2a6); }
+}
+.nav-link {font-weight: normal;}
+
+.sidebar .nav-item a {
+  line-height: 1.1;
+  font-family: "Viga", sans-serif;
+  font-size: 1.2em;
+}
+
+.details {border-left: none;}
