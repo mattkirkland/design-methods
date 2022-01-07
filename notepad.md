@@ -317,8 +317,7 @@ Q: how to make 'did you test drive a method?' checkable automatically? Tyranny o
 Project categories:
 - book club app (what does a book club need to enrich its IRL meetings? scheduling? Progress reports? note-taking? sharing? recomendations?)
 - car detailing app (book a mobile car detailing service. Also provide field inspection / checklist / sales / checkout process for field agents)
-- thrift store... what?
-- decarbonization guide / tool (educate and help me decarbonize my life)
+- decarbonization guide / tool (educate about my carbon footprint and electrification, help me decarbonize my life)
 - young person EOL toolkit (GYST basically) Talk to old people and figure out what needs to happen, then make it intelligible for young people.
 
-You choose: books / clothes / cars / climate / death.  Spin the wheel to choose one. Or pick a
+You choose: books / clothes / cars / climate / death.  Spin the wheel to choose one. Or roll a die, IDK.
