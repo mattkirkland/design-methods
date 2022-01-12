@@ -188,6 +188,11 @@ footer {
       padding-left: 40px;
       padding-right: 40px;
     }
+    #scrollspy-nav {
+      position: fixed;
+      top: 0px;
+      width: 50%;
+      }
   footer {
     text-align: center;
     font-size: 14px;
