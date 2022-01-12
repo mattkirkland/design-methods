@@ -321,3 +321,10 @@ Project categories:
 - young person EOL toolkit (GYST basically) Talk to old people and figure out what needs to happen, then make it intelligible for young people.
 
 You choose: books / clothes / cars / climate / death.  Spin the wheel to choose one. Or roll a die, IDK.
+
+### 1/11/22
+
+I've made several changes here but a checklist on what I need to do before next week:
+
+- strip out GA and replace with Plausible
+- figure out NOTEBOOK situation. Jeez I don't want to grade 66-and-counting-notion notebooks.
