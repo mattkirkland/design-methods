@@ -320,7 +320,7 @@ Project categories:
 - decarbonization guide / tool (educate about my carbon footprint and electrification, help me decarbonize my life)
 - young person EOL toolkit (GYST basically) Talk to old people and figure out what needs to happen, then make it intelligible for young people.
 
-You choose: books / clothes / cars / climate / death.  Spin the wheel to choose one. Or roll a die, IDK.
+You choose: books / clothes / cars / climate / death.  Spin the wheel to choose one. Or roll a die, IDK.  Ooh, make them draw a card and use the card suits.
 
 ### 1/11/22
 
