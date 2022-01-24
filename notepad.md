@@ -329,5 +329,6 @@ I've made several changes here but a checklist on what I need to do before next 
 - strip out GA and replace with Plausible
 - figure out NOTEBOOK situation. Jeez I don't want to grade 66-and-counting-notion notebooks.
 
--
- 
+### 1/24/22
+
+Prepping for don norman one. added an intro video of some UX design failure - 11f8 bridge.
