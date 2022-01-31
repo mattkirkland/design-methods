@@ -332,3 +332,7 @@ I've made several changes here but a checklist on what I need to do before next 
 ### 1/24/22
 
 Prepping for don norman one. added an intro video of some UX design failure - 11f8 bridge.
+
+### 1/29/22:
+
+Need to write out client briefs for the 4 projects this weekend.
