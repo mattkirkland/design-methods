@@ -336,3 +336,6 @@ Prepping for don norman one. added an intro video of some UX design failure - 11
 ### 1/29/22:
 
 Need to write out client briefs for the 4 projects this weekend.
+
+### 2/28/22:
+for the reading list: https://fs.blog/why-life-cant-be-simpler/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-177
