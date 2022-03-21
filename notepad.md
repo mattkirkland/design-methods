@@ -339,3 +339,6 @@ Need to write out client briefs for the 4 projects this weekend.
 
 ### 2/28/22:
 for the reading list: https://fs.blog/why-life-cant-be-simpler/?utm_source=densediscovery&utm_medium=email&utm_campaign=newsletter-issue-177
+
+### 3/21/22:
+Jesse showalter Figma intro: might be worth adding when we get to prototypes: https://www.youtube.com/watch?v=II-6dDzc-80
