@@ -342,3 +342,37 @@ for the reading list: https://fs.blog/why-life-cant-be-simpler/?utm_source=dense
 
 ### 3/21/22:
 Jesse showalter Figma intro: might be worth adding when we get to prototypes: https://www.youtube.com/watch?v=II-6dDzc-80
+
+### 3/23/22:
+on Thursday do some demo tests.  We can use Vika's bridgeway mockup:
+
+Wireframe here:
+https://www.figma.com/proto/eN3iPSEKfEUILYM40R2xUp/Bridgeway?node-id=54%3A1413&scaling=min-zoom&page-id=50%3A1003&starting-point-node-id=54%3A1634
+
+Fuller Prototype here:
+https://www.figma.com/proto/eN3iPSEKfEUILYM40R2xUp/Bridgeway?node-id=130%3A2756&starting-point-node-id=130%3A2756&show-proto-sidebar=1
+
+EXAMPLE SCRIPT:
+
+HI - CAN YOU DO ME A REAL QUICK FAVOR?
+- I'm doing a user test for class; this will take 4 minutes.
+- This is a prototype of an app
+- I'm going to give you a task, and we'll watch you try it out.
+Hello, do you have a minute? (1) My name is Amy and I work for company ‘Awesome.’ (2) I’m here asking people to take a look at our product (3) and let me know what they think of it. If you have 10 minutes for me (4), I’ll ask you a few questions and record the answers. In return, I’ll buy you a coffee or a muffin to say thank you. (5)
+
+
+“I’m testing the product, not you. No need to worry about making any mistakes. And please don’t worry about our feelings. We want to improve our product and need to hear your honest reactions.”
+
+
+
+- This is a Prototype, so it doesn't work fully. There are just some pathways that will work and others that we haven't built out yet at all.
+- This isn't even my design, I'm just testing it. Don't spare my feeeeeeelings.
+
+“While you’re using the product, I would like you to think out loud. Just say what you’re thinking, what you’re trying to accomplish, what you expect to happen after an interaction, and so on.”
+
+- ask for questions?
+- OK, your role is to report opioid overdoses. We're going to pretend you work on an ambulance, and you need to file a monthly report about how many people you've helped with different categories of crises.
+- YOUR TASK: fill in a report. You can make up the numbers, they don't have to be correct.
+- Remember, please try to think out loud.
+(and afterwards)
+THANK YOU AND MANY BLESSINGS UPON YOU AND YOUR HOUSEHOLD
